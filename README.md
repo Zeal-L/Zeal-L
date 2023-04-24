@@ -6,9 +6,6 @@
 </a>
 
 ### Welcome to my profile 👋
-<a href="https://app.codiga.io/hub/user/github">
-   <img src="https://api.codiga.io/public/badge/user/github/zeal-l?style=dark" alt="codiga badge" />
-</a>
 
 ![Zeal-L's github stats](https://github-readme-stats.vercel.app/api?username=Zeal-L&count_private=true&show_icons=true&include_all_commits=true&theme=radical)
 
