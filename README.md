@@ -47,7 +47,10 @@ const zeal = {
             language: ["C", "C++", "C#", "Python", "Java", "Rust"],
             framework: ["Flask", "Spring Boot"]
         },
-        databases: ["MySQL", "SQLite", "PostgreSQL"]
+        databases: ["MySQL", "SQLite", "PostgreSQL"],
+        computerVision: ["Jupyter Notebook", "OpenCV", "Scikit-learn", "Tensorflow", "Pytorch"],
+        gameEngine: ["Unity3d", "Cocos2d"],
+        tools: ["Git", "LaTeX", "Docker", "Linux"]
     }
 };
 ```
