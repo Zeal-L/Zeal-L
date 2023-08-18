@@ -1,7 +1,7 @@
 <div align="center">
 <h1>🎉 Welcome to my profile 👋 欢迎来到我的主页 💖</h1>
   You're the
-  <img src="https://count.getloli.com/get/@Zeal-L" alt="Profile views" />
+  <img src="https://count.getloli.com/get/@Zeal-L?theme=rule34" alt="Profile views" />
   th person to visit my profile.
 </div>
 
